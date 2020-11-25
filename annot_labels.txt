@@ -1,0 +1,7 @@
+person
+small
+medium
+large
+animal
+litter
+graffiti
